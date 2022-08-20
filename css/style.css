@@ -23,10 +23,21 @@
 	font-style: italic;
 	
 }
-.ll{
+.ll1{
 	font-size: 18px;
+	text-align: left;
+    margin-left: 90px;
 }
-
+.ll2{
+	font-size: 18px;
+	text-align: left;
+    margin-left: 95px;
+}
+.ll3{
+	font-size: 18px;
+	text-align: left;
+    margin-left: 105px;
+}
 
 /* ==========================================================================
 	Global Styles
